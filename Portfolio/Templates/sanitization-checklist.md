@@ -26,7 +26,7 @@
 
 \- Private IP placeholders (192.168.x.x)
 
-\- Generic labels (ISP-A / ISP-B, Router/Gateway)
+\- Generic labels (ISP-A / ISP-B, router/gateway)
 
 
 
