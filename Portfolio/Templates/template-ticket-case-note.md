@@ -1,7 +1,3 @@
-
-
-
-
 # Case-### — Short Title
 
 ## Summary
@@ -11,14 +7,14 @@
 - **Status:** Open / Monitoring / Resolved
 
 ## Symptoms (What was reported)
-- [Plain-language symptom(s)]
+- **Symptoms:** [Plain-language symptom(s)]
 - **Scope:** [Single device / Multiple devices / Whole network]
 - **Started:** [Approx time/date]
 
 ## Impact (Who/what was affected)
-- Affected users/devices: [List]
-- Business impact (if any): [Short sentence]
-- Workaround available? [Yes/No + what]
+- **Affected users/devices:** [List]
+- **Business impact (if any):** [Short sentence]
+- **Workaround available?:** [Yes/No + what]
 
 ## Environment (sanitized)
 - **Device(s):** [Windows 11 laptop / phone / etc.]
@@ -28,13 +24,13 @@
 - **Notes:** [VPN? Mesh Wi-Fi?]
 
 ## Baseline Checks (fast triage)
-- Power/cables checked? Y/N
-- Modem/ONT lights normal? Y/N (note which)
-- Reboot attempted? Y/N (what order)
-- Known-good comparison tried? Y/N (2nd device / hotspot)
+- Power/cables checked? [Y/N]
+- Modem/ONT lights normal? [Y/N — note which]
+- Reboot attempted? [Y/N — what order]
+- Known-good comparison tried? [Y/N — 2nd device / hotspot]
 
 ## Troubleshooting Steps (chronological)
-> Record test → result → what it means. Keep it in order.
+Record **test → result → interpretation**. Keep it in order.
 
 1) **Test:** [command/action]  
    **Result:** [pass/fail + what you saw]  
@@ -51,8 +47,8 @@
 ## Findings (What we know is true)
 - [Confirmed fact #1]
 - [Confirmed fact #2]
-- What is working: [X]
-- What is failing: [Y]
+- **What is working:** [X]
+- **What is failing:** [Y]
 
 ## Most Likely Cause (best current conclusion)
 - **Most likely cause:** [ISP outage / DNS misconfig / router failure / etc.]
