@@ -10,5 +10,3 @@ Weekly summaries:
 
 \- \[Week 003 — Advent of Cyber (Days 15–21)](Week\_003\_Overview.md)
 
-
-
